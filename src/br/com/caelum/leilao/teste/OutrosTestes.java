@@ -1,13 +1,12 @@
 package br.com.caelum.leilao.teste;
 
 import static com.jayway.restassured.RestAssured.expect;
-import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import com.jayway.restassured.path.xml.XmlPath;
 
-import br.com.caelum.leilao.modelo.Usuario;
+
+
 
 public class OutrosTestes {
 

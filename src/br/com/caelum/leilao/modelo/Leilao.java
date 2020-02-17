@@ -2,6 +2,8 @@ package br.com.caelum.leilao.modelo;
 
 import javax.xml.bind.annotation.XmlRootElement;
 
+
+
 @XmlRootElement
 public class Leilao {
 

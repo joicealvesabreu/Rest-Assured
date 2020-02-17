@@ -3,6 +3,8 @@ package br.com.caelum.leilao.modelo;
 
 import java.util.Calendar;
 
+
+
 public class Lance{
 
 	private Long id;
